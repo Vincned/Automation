@@ -18,3 +18,6 @@ finally:
     time.sleep(10)
     # закрываем браузер после всех манипуляций
     browser.quit()
+
+def a():
+    return 2+2
